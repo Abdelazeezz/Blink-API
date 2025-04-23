@@ -170,7 +170,6 @@ namespace Blink_API.Controllers.Account
         #endregion
 
 
-        // after forget pass and enter el email , verify with code sent : 
 
         // set new password :
         #region set new password
